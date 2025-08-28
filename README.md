@@ -1,5 +1,9 @@
 # aptos-indexer-grpc-go
 
+# Getting started
+```bash
+go get -u github.com/ice-coldbell/aptos-indexer-grpc-go
+```
 
 # Install dependency
 
